@@ -33,7 +33,6 @@
 ### 📫 Contact
 
 - GitHub: [@HyeokjuCHu](https://github.com/HyeokjuCHu)
-- (옵션으로 블로그, 이메일 있으면 여기에 추가 가능!)
 
 ---
 

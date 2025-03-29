@@ -35,6 +35,7 @@
 - GitHub: [@HyeokjuCHu](https://github.com/HyeokjuCHu)
 
 ---
+![Hyeokju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyeokjuCHu&show_icons=true&theme=default)
 
 <p align="center">
   Thank you for visiting my profile! 😊

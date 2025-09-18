@@ -29,16 +29,5 @@
 
 ---
 
-### 📊 My GitHub Stats
-
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeokjuCHu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeokjuCHu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
 📫 **How to reach me:**
 - **Email:** sk1031403@gmail.com

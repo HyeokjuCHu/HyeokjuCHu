@@ -18,7 +18,7 @@
   -  <strong>World Wide CTF</strong> 20등<br>
   -  <strong>사이버공격방어대회</strong> 230등<br>
   -  <strong>BlackHat MEA CTF Qualification 2025</strong> 301등<br>
-  -  <strong>AmateursCTF 2025</strong> 9등
+  -  <strong>AmateursCTF 2025</strong> 9등<br>
   -  <strong>BackDoorCTF 2025</strong> 69등
 </p>
 

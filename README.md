@@ -11,8 +11,7 @@
 ### 👨‍💻 About Me
 
 <p align="left">
-  - 💻 <strong>보안 동아리 G.H.O.S.T</strong>에서 <strong>pwnable, cryptography, forensic</strong>을 배우고 있습니다.
-  <a href="https://ctftime.org/team/396952">G.H.O.S.T</a>
+  - 💻 <strong>보안  <a href="https://ctftime.org/team/396952">동아리 G.H.O.S.T</a></strong>에서 <strong>pwnable, cryptography, forensic</strong>을 배우고 있습니다.
 </p>
 
 ### 🏆 Awards

@@ -11,8 +11,7 @@
 ### 👨‍💻 About Me
 
 <p align="left">
-  - 🎓 한동대학교에서 <strong>컴퓨터공학을 심화 전공</strong>하고 있는 21학번 학생입니다. <br>
-  - 💻 <strong>C/C++</strong>를 활용한 시스템 프로그래밍과 <strong>칼리 리눅스</strong>를 이용한 사이버 보안에 큰 흥미를 느끼고 있습니다.
+  - 💻 <strong>보안 동아리 G.H.O.S.T</strong>에서 <strong>pwnable, cryptography, forensic</strong>을 배우고 있습니다.
 </p>
 
 ### 🏆 Awards
